@@ -4,7 +4,7 @@ body {
     font-family: 'Roboto';
     text-align: center;
     font-size: 3.25rem;
-    background: linear-gradient(135deg, #667eea 0%, #66c9ea 100%);
+    background-image: linear-gradient(60deg, #96deda 0%, #50c9c3 100%);
     color: white;
 
     display: grid;
