@@ -1,9 +1,33 @@
-# Stopwatch
+<div align="center">
+  
+  # Stopwatch
 
-__Link:__ https://alex-m-2013.github.io/Stopwatch/
+  <img src="https://deploy-badge.vercel.app/vercel/alex-m-stopwatch?style=for-the-badge" alt="Vercel Deploy"><br>
+  <img src="https://img.shields.io/badge/MADE%20WITH-REACT-61DAFB?style=for-the-badge&logo=react" alt="Made with React">
+  <img src="https://img.shields.io/github/repo-size/Alex-M-2013/Stopwatch?style=for-the-badge&logo=github" alt="Repo Size">
 
-A simple web stopwatch made in HTML, CSS and JavaScript. <br>
+  A simple web stopwatch made with React. <br>
 
-<img src="images/example.png">
+  __Link:__ https://alex-m-stopwatch.vercel.app/
+</div>
 
-Gradient from: https://webgradients.com/gradient/096-healthy-water
+## Running the project
+  
+### Requirements:
+- [NodeJS](https://nodejs.org/en)
+
+### Steps:
+1. Clone the repo:
+```
+git clone https://github.com/Alex-M-2013/Weather-App.git
+```
+> If you don't have Git, click the "Code" button at the top and click "Download ZIP" then extract its contents
+2. In the project root, run: 
+```
+npm i
+```
+3. Run the App:  
+```
+npm run dev
+```
+4. View the app at [localhost:5173](http://localhost:5173)
