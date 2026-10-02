@@ -4,14 +4,18 @@
     --scrollbar-color: auto;
     --body-bg: #fafafa;
     --element-bg: #ffffff;
+    --button-bg: #1e1e1e;
     --font-colour: #000000;
+    --button-font-color: #ffffff;
     --img-filter: none;
 
     &[data-theme="dark"] {
         --scrollbar-color: #888888 #121212;
         --body-bg: #121212;
         --element-bg: #1e1e1e;
+        --button-bg: #ffffff;
         --font-colour: #ffffff;
+        --button-font-color: #000000;
         --img-filter: invert();
     }
 }
